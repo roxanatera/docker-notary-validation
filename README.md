@@ -1,6 +1,6 @@
 # 🐳 Lanzamiento de cargas de trabajo dockerizadas con firma digital
 
-> Práctica de la asignatura **Puesta en producción segura** — Julia Roxana Natera Chavez
+> Práctica de la asignatura **Puesta en producción segura** 
 > Instalación de **Docker** en Ubuntu 22.04 y firma / verificación de imágenes con **Notary v2 (Notation CLI)**.
 
 ## 🎯 Objetivo
